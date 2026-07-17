@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react'
 import { Link, NavLink, useLocation } from 'react-router'
-import { Menu, X, Phone, MessageCircle } from 'lucide-react'
+import { Menu, X } from 'lucide-react'
 import Logo from './Logo'
 
 const navItems = [
